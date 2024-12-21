@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Santa_Key",
+      "description": "The final key of the game that fake opens the door on the first floor and plays the credits",
+      "tags": [],
+      "properties": {},
+      "stackable": false,
+      "droppable": false,
+      "usable": true,
+      "num_of_uses": 0,
+      "script": ""
+    },
+    {
+      "id": "ITEM_0002",
+      "name": "Cookie Tray",
+      "description": "Used for the oven puzzle",
+      "tags": [],
+      "properties": {},
+      "stackable": false,
+      "craftable": false,
+      "recipe": [],
+      "tool_item": false,
+      "tool_item_range": 1,
+      "tool_item_script_mode": "entity",
+      "droppable": false,
+      "usable": true,
+      "num_of_uses": 0,
+      "script": ""
+    },
+    {
+      "id": "ITEM_0003",
+      "name": "Gelatin",
+      "description": "",
+      "tags": [],
+      "properties": {},
+      "stackable": false,
+      "droppable": false,
+      "usable": true,
+      "num_of_uses": 1,
+      "script": ""
+    },
+    {
+      "id": "ITEM_0004",
+      "name": "Sand",
+      "description": "",
+      "tags": [],
+      "properties": {},
+      "stackable": false,
+      "droppable": false,
+      "usable": false
+    }
+  ],
+  "localized": false
+}
