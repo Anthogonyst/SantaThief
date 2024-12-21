@@ -51,7 +51,9 @@
       "stackable": false,
       "droppable": false,
       "image": "red_key.png",
-      "usable": false
+      "usable": true,
+      "num_of_uses": 0,
+      "script": ""
     },
     {
       "id": "ITEM_0005",

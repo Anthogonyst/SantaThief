@@ -13,7 +13,6 @@
       "tool_item_range": 1,
       "tool_item_script_mode": "entity",
       "droppable": false,
-      "image": "tray.png",
       "usable": true,
       "num_of_uses": 0,
       "script": ""
@@ -26,7 +25,6 @@
       "properties": {},
       "stackable": false,
       "droppable": false,
-      "image": "sugar.png",
       "usable": true,
       "num_of_uses": 1,
       "script": ""
@@ -39,7 +37,6 @@
       "properties": {},
       "stackable": false,
       "droppable": false,
-      "image": "flour.png",
       "usable": false
     },
     {
@@ -51,7 +48,9 @@
       "stackable": false,
       "droppable": false,
       "image": "red_key.png",
-      "usable": false
+      "usable": true,
+      "num_of_uses": 0,
+      "script": ""
     },
     {
       "id": "ITEM_0005",
@@ -60,7 +59,6 @@
       "tags": [],
       "properties": {},
       "stackable": false,
-      "image": "mushroom.png",
       "usable": false
     },
     {
@@ -72,7 +70,6 @@
       "stackable": false,
       "craftable": true,
       "recipe": [{"count":1,"item_id":"ITEM_0002"},{"count":1,"item_id":"ITEM_0005"},{"count":1,"item_id":"ITEM_0004"},{"count":1,"item_id":"ITEM_0003"}],
-      "image": "cookies.png",
       "usable": true,
       "num_of_uses": 1
     }
